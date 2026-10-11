@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Krisha 👋
+
+I'm a Computer Science graduate from Rutgers University – New Brunswick ( Cum Laude, May 2026), based in NJ/NYC area. I build full-stack web apps, ML pipelines, and cloud-native tools. 
+
 
 <!--
 **krishajhh/krishajhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
